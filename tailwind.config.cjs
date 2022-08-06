@@ -24,7 +24,7 @@ module.exports = {
         'main-desktop': "url('/bg/bg-main-desktop.png')",
       },
       flex: {
-        side: '0 0 280px',
+        side: '0 0 320px',
       },
     },
   },
