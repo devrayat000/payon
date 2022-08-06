@@ -23,6 +23,9 @@ module.exports = {
         'main-mobile': "url('/bg/bg-main-mobile.png')",
         'main-desktop': "url('/bg/bg-main-desktop.png')",
       },
+      flex: {
+        side: '0 0 280px',
+      },
     },
   },
   plugins: [],

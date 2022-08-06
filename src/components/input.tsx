@@ -36,7 +36,7 @@ export const TextInput: React.FC<TextInputProps> = ({
         name="cardholder_name"
         id={props.id ?? id}
         className={clsx(
-          "w-full py-3 px-5 border rounded-md border-neutral-light-grayish-violet mt-1",
+          "w-full py-3 md:py-2 px-5 md:px-4 border rounded-md border-neutral-light-grayish-violet mt-1",
           classNames?.input
         )}
         placeholder="e.g. Jane Appleseed"
